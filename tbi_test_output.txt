@@ -1,0 +1,55 @@
+
+========== STAYNEST TBI ==========
+1 Add User | 2 View Users | 3 Search User | 4 Update User | 5 Delete User
+6 View Properties | 7 Add Property | 8 Delete Property
+9 Add Booking | 10 View Bookings | 11 Delete Booking | 12 Search Bookings
+13 Sort Users | 14 Sort Properties | 15 Sort Bookings
+16 Add Feedback | 17 View Feedback | 0 Exit
+==================================
+Choose an option: 12300760 | Sairose Mehbub Sasshoo | 12300760@students.koi.edu.au | Guest
+20037255 | Prakash Kharel | 20037255@students.koi.edu.au | Host
+20040882 | Mohan Rawat | 20040882@students.koi.edu.au | Host
+20034554 | Umair Abdul Qayyum | 20034554@students.koi.edu.au | Guest
+20039197 | Sujit Rana Magar | 20039197@students.koi.edu.au | Host
+10000001 | Aisha Khan | aisha@example.com | Guest
+10000002 | Noah Davis | noah@example.com | Guest
+10000003 | Olivia Brown | olivia@example.com | Host
+10000004 | Emma Taylor | emma@example.com | Guest
+10000005 | James Wilson | james@example.com | Host
+
+========== STAYNEST TBI ==========
+1 Add User | 2 View Users | 3 Search User | 4 Update User | 5 Delete User
+6 View Properties | 7 Add Property | 8 Delete Property
+9 Add Booking | 10 View Bookings | 11 Delete Booking | 12 Search Bookings
+13 Sort Users | 14 Sort Properties | 15 Sort Bookings
+16 Add Feedback | 17 View Feedback | 0 Exit
+==================================
+Choose an option: ID: User not found.
+
+========== STAYNEST TBI ==========
+1 Add User | 2 View Users | 3 Search User | 4 Update User | 5 Delete User
+6 View Properties | 7 Add Property | 8 Delete Property
+9 Add Booking | 10 View Bookings | 11 Delete Booking | 12 Search Bookings
+13 Sort Users | 14 Sort Properties | 15 Sort Bookings
+16 Add Feedback | 17 View Feedback | 0 Exit
+==================================
+Choose an option: 1 ID  2 Name  3 Email
+Sort by: 10000001 | Aisha Khan | aisha@example.com | Guest
+10000002 | Noah Davis | noah@example.com | Guest
+10000003 | Olivia Brown | olivia@example.com | Host
+10000004 | Emma Taylor | emma@example.com | Guest
+10000005 | James Wilson | james@example.com | Host
+12300760 | Sairose Mehbub Sasshoo | 12300760@students.koi.edu.au | Guest
+20034554 | Umair Abdul Qayyum | 20034554@students.koi.edu.au | Guest
+20037255 | Prakash Kharel | 20037255@students.koi.edu.au | Host
+20039197 | Sujit Rana Magar | 20039197@students.koi.edu.au | Host
+20040882 | Mohan Rawat | 20040882@students.koi.edu.au | Host
+
+========== STAYNEST TBI ==========
+1 Add User | 2 View Users | 3 Search User | 4 Update User | 5 Delete User
+6 View Properties | 7 Add Property | 8 Delete Property
+9 Add Booking | 10 View Bookings | 11 Delete Booking | 12 Search Bookings
+13 Sort Users | 14 Sort Properties | 15 Sort Bookings
+16 Add Feedback | 17 View Feedback | 0 Exit
+==================================
+Choose an option: Exiting...
